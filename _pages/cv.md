@@ -30,6 +30,6 @@ Work experience
 * 2021/08-2022/05: Teaching Assistant
   * Stony Brook University
 
-* 2020/08-2021/08: Radiotherapy Algorithm Engineer
+* 2020/08-2021/07: Radiotherapy Algorithm Engineer
   * Linatech LLC
   * Duties includes: 1) Design and optimization of cancer treatment with radiotherapy. 2) Implementation and verification of algorithm in a cancer treatment planning system.
