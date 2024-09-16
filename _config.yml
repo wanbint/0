@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io" #twb
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"  # twb<
+  avatar           : "Photo_Wanbin Tan.jpg"  # twb<
   name             : "Wanbin Tan"
   pronouns         : # example: "she/her"  
   bio              : "Medical Physics"
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "wanbint"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : https://www.linkedin.com/in/wanbin-tan-983017196/
+  linkedin         : wanbin-tan-983017196
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
