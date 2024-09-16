@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -13,6 +13,6 @@ Hi, there~
 # [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb)
 
 Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/ideal housing.jpg)
+![Editing a markdown file for a talk](/images/idealHousing.png)
 
 
