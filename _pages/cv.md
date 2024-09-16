@@ -29,42 +29,7 @@ Work experience
     
 * 2021/08-2022/05: Teaching Assistant
   * Stony Brook University
-  #* Duties included: Merging pull requests
-  #* Supervisor: Professor Hub
 
 * 2020/08-2021/08: Radiotherapy Algorithm Engineer
   * Linatech LLC
-  * Duties includes: 1) Design and optimization ofcancer treatment with radiotherapy. 2) Implementation and verification of algorithm in acancer treatment planning system.
-  #* Supervisor: The Users
-
- 
-#Skills
-#======
-#* Skill 1
-#* Skill 2
-#  * Sub-skill 2.1
-#  * Sub-skill 2.2
-#  * Sub-skill 2.3
-#* Skill 3
-
-#Publications
-#======
-#  <ul>{% for post in site.publications reversed %}
-#    {% include archive-single-cv.html %}
-#  {% endfor %}</ul>
-#  
-#Talks
-#======
-#  <ul>{% for post in site.talks reversed %}
-#    {% include archive-single-talk-cv.html  %}
-#  {% endfor %}</ul>
-#  
-#Teaching
-#======
-#  <ul>{% for post in site.teaching reversed %}
-#    {% include archive-single-cv.html %}
-#  {% endfor %}</ul>
-#  
-#Service and leadership
-#======
-#* Currently signed in to 43 different slack teams
+  * Duties includes: 1) Design and optimization of cancer treatment with radiotherapy. 2) Implementation and verification of algorithm in a cancer treatment planning system.
