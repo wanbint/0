@@ -33,12 +33,18 @@ Outside of research, I enjoy staying active outdoors through road trips and hiki
 ![Alt text](https://github.com/wanbint/0/blob/master/wb/wbIdealHousing.jpg)
 
 -->
-
+<!--Text
 <figure>
   <img src="https://github.com/wanbint/0/blob/master/wb/wbIdealHousing.jpg" width="400px" alt="">
   <figcaption> 
   </figcaption>
 </figure>
-<!--TextGrand Teton National Park -->
+ Grand Teton National Park -->
+
+
+
+Example: editing a markdown file for a talk
+![Editing a markdown file for a talk](/wb/wbIdealHousing.jpg)
+
 
 
