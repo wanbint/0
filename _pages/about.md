@@ -35,7 +35,7 @@ Outside of research, I enjoy staying active outdoors through road trips and hiki
 -->
 
 <figure>
-  <img src="https://github.com/wanbint/0/blob/master/wb/wbIdealHousing.jpg" width="600px" alt="">
+  <img src="https://github.com/wanbint/0/blob/master/wb/wbIdealHousingWeb.jpg" width="600px" alt="">
   <figcaption>Grand Teton National Park
   </figcaption>
 </figure>
