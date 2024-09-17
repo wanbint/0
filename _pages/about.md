@@ -32,19 +32,14 @@ Outside of research, I enjoy staying active outdoors through road trips and hiki
 
 ![Alt text](https://github.com/wanbint/0/blob/master/wb/wbIdealHousing.jpg)
 
+title: "Portfolio item number 1"
+excerpt: "Short description of portfolio item number 1<br/><img src='/wb/wbIdealHousing.jpg'>"
+collection: portfolio
+
 -->
-<!--Text
+
 <figure>
   <img src="https://github.com/wanbint/0/blob/master/wb/wbIdealHousing.jpg" width="400px" alt="">
   <figcaption> 
   </figcaption>
 </figure>
- Grand Teton National Park -->
-
----
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/wb/wbIdealHousing.jpg'>"
-collection: portfolio
----
-
-
