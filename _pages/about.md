@@ -28,9 +28,16 @@ Outside of research, I enjoy staying active outdoors through road trips and hiki
 
 <a href="/assets/images/climsim.png"><img src="/images/idealHousing.jpg" width="600px" alt=""> |Grand Teton National Park|
 
-![Alt text](/images/wbIdealHousing.jpg)
+![wbIdealHousing.jpg](/images/wbIdealHousing.jpg)
+
+![Alt text](https://github.com/wanbint/0/blob/master/wb/wbIdealHousing.jpg)
 
 -->
 
+<figure>
+  <img src="https://github.com/wanbint/0/blob/master/wb/wbIdealHousing.jpg" width="600px" alt="">
+  <figcaption>Grand Teton National Park
+  </figcaption>
+</figure>
 
-![Alt text](https://github.com/wanbint/0/blob/master/wb/wbIdealHousing.jpg)
+
