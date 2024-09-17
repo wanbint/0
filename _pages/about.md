@@ -10,9 +10,8 @@ redirect_from:
 Hi, there~
 ======
 [CV page](https://wanbint.github.io/0//cv/)
-# [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb)
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/idealHousing.jpg)
+
+/images/idealHousing.jpg
 
 
