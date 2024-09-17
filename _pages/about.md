@@ -1,17 +1,3 @@
-<!--Text
----
-title: "Research"
-layout: single
-sitemap: true
-permalink: /research/
-author_profile: true
-toc: true
-toc_label: "Research"
-toc_icon: "gear"
-toc_sticky: true
----
--->
-
 ---
 permalink: /
 title: "About"
@@ -20,13 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-toc: true
-toc_label: "About"
-toc_icon: "gear"
-toc_sticky: true
 ---
-
-
 
 Hi there! 
 
