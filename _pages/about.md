@@ -39,7 +39,7 @@ collection: portfolio
 -->
 
 <figure>
-  <img src="https://github.com/wanbint/0/blob/master/wb/wbIdealHousing.jpg" width="400px" alt="">
+  <img src='../wb/wbIdealHousing.jpg' width="400px" alt="">
   <figcaption> 
   </figcaption>
 </figure>
