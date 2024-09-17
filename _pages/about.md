@@ -41,10 +41,10 @@ Outside of research, I enjoy staying active outdoors through road trips and hiki
 </figure>
  Grand Teton National Park -->
 
-
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/wb/wbIdealHousing.jpg)
-
+---
+title: "Portfolio item number 1"
+excerpt: "Short description of portfolio item number 1<br/><img src='/wb/wbIdealHousing.jpg'>"
+collection: portfolio
+---
 
 
