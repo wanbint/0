@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Biomedical Engineering (Medical Physics), Stony Brook University, 2025 (expected)
+* Ph.D. in Biomedical Engineering (Medical Physics), Stony Brook University, 2025 (expected)
 * M.S. in Nuclear Science and Technology, University of Science and Technology of China, 2020
 * B.S. in Nuclear Science and Technology, Sichuan University, 2017
 
@@ -33,3 +33,10 @@ Work experience
 * 2020/08-2021/07: Radiotherapy Algorithm Engineer
   * Linatech LLC
   * Duties includes: 1) Design and optimization of cancer treatment with radiotherapy. 2) Implementation and verification of algorithm in a cancer treatment planning system.
+ 
+<figure>
+  <img src="https://github.com/wanbint/0/blob/master/wb/wbIdealHousing.jpg" width="400px" alt="">
+  <figcaption> 
+  </figcaption>
+</figure>
+<!--TextGrand Teton National Park -->
