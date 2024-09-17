@@ -15,8 +15,4 @@ Before starting my PhD, I spent a year in Shanghai as a radiotherapy algorithm e
 
 Outside of research, I enjoy staying active outdoors through road trips and hiking trails.
 
-<figure>
-  <img src="/images/Photo_Wanbin Tan2.jpg" width="1000px" alt="">
-  <figcaption>Grand Teton National Park
-  </figcaption>
-</figure>
+| <a href="/assets/images/climsim.png"><img src="/images/idealHousing.jpg" width="600px" alt=""> |Grand Teton National Park|
