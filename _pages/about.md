@@ -38,8 +38,11 @@ collection: portfolio
 
 -->
 
+<!--Text
 <figure>
   <img src='/0/wb/wbIdealHousing.jpg' width="200px" alt="">
   <figcaption> Grand Teton National Park
   </figcaption>
 </figure>
+-->
+<img src="/0/wb/wbIdealHousing.jpg" width="600px" alt=""> |Grand Teton National Park|
