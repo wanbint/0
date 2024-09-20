@@ -39,7 +39,7 @@ collection: portfolio
 -->
 
 <figure>
-  <img src='../wb/wbIdealHousing.jpg' width="400px" alt="">
+  <img src='/0/wb/wbIdealHousing.jpg' width="400px" alt="">
   <figcaption> 
   </figcaption>
 </figure>
