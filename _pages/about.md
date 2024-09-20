@@ -40,6 +40,6 @@ collection: portfolio
 
 <figure>
   <img src='/0/wb/wbIdealHousing.jpg' width="200px" alt="">
-  <figcaption> |Grand Teton National Park
+  <figcaption> Grand Teton National Park
   </figcaption>
 </figure>
