@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Biomedical Engineering (Medical Physics), Stony Brook University, 2025 (expected)
+* Ph.D. in Biomedical Engineering (Medical Physics), Stony Brook University, 2026 (expected)
 * M.S. in Nuclear Science and Technology, University of Science and Technology of China, 2020
 * B.S. in Nuclear Engineering and Technology, Sichuan University, 2017
 
