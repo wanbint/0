@@ -32,7 +32,7 @@ Work experience
 
 * 2020/08-2021/07: Radiotherapy Algorithm Engineer
   * Linatech LLC
-  * Duties include: 1) Design and optimization of cancer treatment with radiotherapy. 2) Implementation and verification of algorithm in a cancer treatment planning system.
+  * Duties include: 1) Design and optimization of cancer treatment with radiotherapy. 2) Implementation and verification of algorithms in a treatment planning system.
 
 <!-- 
 <figure>
