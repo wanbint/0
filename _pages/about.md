@@ -10,9 +10,7 @@ redirect_from:
 
 Hi there! 
 
-I am a PhD candidate in Medical Physics at Stony Brook University and a research collaborator at Weill Cornell Medicine. My work focuses on developing hardware and software to enhance the imaging performance of PET scanners.
-
-Before starting my PhD, I spent a year in Shanghai as a radiotherapy algorithm engineer, where I focused on designing and optimizing algorithms for a treatment planning system. Prior to that, I earned both my master’s and bachelor’s degrees in Nuclear Science, conducting research on acceleration of Monte Carlo particle transport and design of radiation detectors.
+I am a PhD candidate in Medical Physics at Stony Brook University and a research collaborator at Weill Cornell Medicine. My work focuses on developing hardware and software to enhance the imaging performance of PET scanners. Before starting my PhD, I worked for a year in Shanghai as a radiotherapy algorithm engineer, where I developed and implemented advanced algorithms for a treatment planning system. Prior to that, I earned both my master’s and bachelor’s degrees in Nuclear Science, conducting research on Monte Carlo particle transport and radiation detector design.
 
 Outside of research, I enjoy staying active outdoors through road trips and hiking trails.
 
